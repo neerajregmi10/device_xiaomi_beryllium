@@ -1,6 +1,17 @@
 [
   {
-    "repository": "android_device_xiaomi_sdm845-common",
-    "target_path": "device/xiaomi/sdm845-common"
+    "repository": "WrathOS-Devices/device_xiaomi_beryllium",
+    "target_path": "device/xiaomi/beryllium",
+    "branch": "ten"
+  },
+  {
+    "repository": "WrathOS-Devices/device_xiaomi_sdm845-common",
+    "target_path": "device/xiaomi/sdm845-common",
+    "branch": "ten"
+  },
+  {
+    "repository": "WrathOS-Devices/vendor_xiaomi_sdm845",
+    "target_path": "vendor/xiaomi",
+    "branch": "ten"
   }
 ]
