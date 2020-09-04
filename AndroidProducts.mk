@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/wrath_beryllium.mk
+    $(LOCAL_DIR)/bootleg_beryllium.mk
 
 COMMON_LUNCH_CHOICES := \
-    wrath_beryllium-user \
-    wrath_beryllium-userdebug \
-    wrath_beryllium-eng
+    bootleg_beryllium-user \
+    bootleg_beryllium-userdebug \
+    bootleg_beryllium-eng
